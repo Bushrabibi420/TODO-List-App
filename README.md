@@ -1,2 +1,2 @@
 # TODO-List-App
-Reactjs/Nextjs Project
+React/Nextjs Project
